@@ -9,7 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -17,6 +16,9 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+
+      - name: Install PaperMod theme
+        run: git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
       - name: Build
         run: hugo --minify --baseURL "https://v1vekkumar.github.io/v1vek-staging/"
