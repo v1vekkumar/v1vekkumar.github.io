@@ -5,7 +5,6 @@ locale: "en-US"
 paginate: 10
 
 enableRobotsTXT: true
-relativeURLs: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
