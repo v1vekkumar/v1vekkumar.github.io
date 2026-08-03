@@ -101,7 +101,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=fOexgn8AAAAJ&hl=e
 * [Speech style transfer](https://patents.google.com/patent/US11538455B2/en) US Patent 11,538,455, December 27, 2022
 * [Audio capture for aerial devices](https://patents.google.com/patent/US10979613B2/en) US Patent 10,979,613, April 13, 2021
 * [Low bit rate parametric encoding and transport of haptic-tactile signals](https://patents.google.com/patent/WO2017024001A1) US Patent application WO2017024001A1, February 9, 2017
-* [Adaptive quantization](https://patents.google.com/patent/WO2017132366A1) US Patent application WO2017024001A1, August 3, 2017
+* [Adaptive quantization](https://patents.google.com/patent/WO2017132366A1) US Patent application WO2017132366A1, August 3, 2017
 * [Time-varying filters for generating decorrelation signals](https://patents.google.com/patent/WO2006026452A1) US Patent application 2014126684, August 21, 2014
 * [Signal decorrelation in an audio processing system](https://patents.google.com/patent/WO2014126682A1) US Patent application US201443877, November 16, 2014
 * [Bit error concealment for audio coding system](https://patents.google.com/patent/US8301440B2) US Patent US8301440B2, October 30, 2012
