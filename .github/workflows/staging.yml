@@ -1,0 +1,31 @@
+name: Deploy Staging
+on:
+  push:
+    branches: [staging]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --baseURL "https://v1vekkumar.github.io/v1vek-staging/"
+
+      - name: Deploy to staging repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.STAGING_TOKEN }}
+          external_repository: v1vekkumar/v1vek-staging
+          publish_branch: main
+          publish_dir: ./public
+          keep_files: false
