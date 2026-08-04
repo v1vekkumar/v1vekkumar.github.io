@@ -35,7 +35,7 @@ params:
   defaultTheme: auto # dark/light mode automatically follows system or toggle
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -83,7 +83,7 @@ params:
 
 menu:
   main:
-    - name: "Research"
+    - name: "Talks & Papers"
       url: "/research/"
       weight: 1
     - name: "Blog"
