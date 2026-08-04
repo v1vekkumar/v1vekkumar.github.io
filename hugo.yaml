@@ -39,7 +39,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowToc: true
+  ShowToc: false
   TocOpen: false
   
   # Cover image defaults
