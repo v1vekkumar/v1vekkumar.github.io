@@ -1,0 +1,100 @@
+baseURL: "https://v1vek.com/"
+title: "Vivek Kumar"
+theme: "PaperMod"
+locale: "en-US"
+paginate: 10
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: false
+  minifyOutput: true
+
+# Enable raw HTML for BibTeX <details> collapsible blocks and video embeds
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: monokai
+
+params:
+  env: production
+  title: "Vivek Kumar"
+  description: "Director, Sound Research (Frontier AI) at Google DeepMind — Technology Leader, Innovator and Angel Investor"
+  keywords: ["Vivek Kumar", "Google DeepMind", "Sound Team", "V2A", "Lyria", "Spatial Audio", "Audio AI", "Deep Learning", "Frontier AI"]
+  author: "Vivek Kumar"
+  
+  # Theme appearance & behavior
+  defaultTheme: auto # dark/light mode automatically follows system or toggle
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: false
+  TocOpen: false
+  
+  # Cover image defaults
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  # Home-Info Mode (sander.ai minimalist style)
+  homeInfoParams:
+    Title: "Vivek Kumar"
+    Content: >
+      **Technology Leader, Innovator and Angel Investor**
+
+
+      Director, Sound Research (Frontier AI) at **Google DeepMind**. I lead a research team focused on multimodal understanding and generation across audio, speech, and music — including audio-visual editing, source separation, spatial audio, and foundation models.
+
+
+      Prior to joining Google in 2022, I spent over 13 years at **Dolby Laboratories**, where I founded and led the Audio AI Research team and worked on core codecs including Dolby Digital Plus, Dolby TrueHD, and Dolby Atmos.
+
+
+      I also invest in and advise early-stage ventures in AI and deep tech.
+
+  # Social Icons on Homepage & Footer
+  socialIcons:
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=fOexgn8AAAAJ"
+      title: "Google Scholar"
+    - name: github
+      url: "https://github.com/v1vekkumar"
+      title: "GitHub"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/vivekk"
+      title: "LinkedIn"
+    - name: bluesky
+      url: "https://bsky.app/profile/v1vekkumar.bsky.social"
+      title: "Bluesky"
+    - name: x
+      url: "https://x.com/vivek_kumar"
+      title: "Twitter / X"
+
+menu:
+  main:
+    - name: "Talks & Papers"
+      url: "/research/"
+      weight: 1
+    - name: "Blog"
+      url: "/blog/"
+      weight: 2
+    - name: "Angel"
+      url: "/angel/"
+      weight: 3
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # Required for Fuse.js search
