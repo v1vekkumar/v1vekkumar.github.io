@@ -3,7 +3,8 @@ title: "Angel Investing"
 layout: "single"
 url: "/angel/"
 summary: "Angel investments by Vivek Kumar."
-ShowToc: true
+ShowToc: false
+disableShare: true
 ---
 
 ## Investment Thesis

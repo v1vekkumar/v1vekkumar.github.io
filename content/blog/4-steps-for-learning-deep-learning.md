@@ -8,6 +8,8 @@ tags: ["deep-learning", "artificial-intelligence", "neural-networks", "machine-l
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54))*
 
+*Also posted on Quora as an answer to [How do I learn deep learning in 2 months?](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))*
+
 4 Steps for Learning Deep Learning
 
 ### A handy list of resources to help you become a deep learning expert
