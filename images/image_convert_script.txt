@@ -1,3 +1,0 @@
-#script to convert potriat and maintain aspect ratio
-convert PortraitPractice_NoWM_\(2_of_9\).jpg -crop 2464x2464+470+0 big_profile.png
-convert big_profile.png -resize 720x720 profile.png
