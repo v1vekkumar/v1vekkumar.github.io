@@ -4,6 +4,7 @@ date: 2016-04-19T21:29:07Z
 draft: false
 author: "Vivek Kumar"
 tags: ["innovation", "machine-learning", "facebook"]
+summary: "Key takeaways from Facebook's F8 conference — Messenger bots, VR with Oculus, and the 10-year roadmap."
 ---
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/insights-from-f8-developer-conference-87116c2957c9))*
