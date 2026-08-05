@@ -4,6 +4,7 @@ date: 2016-09-07T14:09:01Z
 draft: false
 author: "Vivek Kumar"
 tags: ["deep-learning", "artificial-intelligence", "neural-networks", "machine-learning"]
+summary: "A curated list of courses, tutorials, and resources to go from zero to deep learning practitioner."
 ---
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54))*
