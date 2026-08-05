@@ -7,30 +7,40 @@ ShowToc: false
 disableShare: true
 ---
 
-## Investment Thesis
+I invest in early-stage AI and hardtech companies.
 
-I focus on startups with speculative technologies and a founding team with passion and capability to disrupt the status quo.
-Innovative companies that cross the technical uncertainty chasm and create disruptive technology end up controlling their destinies. That is what I hope to help founders build.
+Across 15+ direct investments, my active portfolio is running at a ~5x multiple. My biggest win is Jasper AI. I wrote the first check as a SAFE, and they've since become a $1.5B+ unicorn, returning 125x on that investment. I also backed Squad, which was acquired by Twitter, and StratumAI (YC W20), already marked up 6x following their Series A.
 
-Trends I am excited about:
+I'm active in the YC ecosystem, with multiple YC-backed companies in my portfolio. I look for founders building in large, underserved markets, particularly where AI is creating real advantages over incumbents.
 
-* **Democratization of Technology**: The transition to a bottom-up economy and democratization of technology is creating opportunities across industries. As [software continues to eat the world](https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/), a trend that continues with mobile access and AI presents opportunities for innovative startups to disrupt across verticals and lead for years to come.
-
-* **Attention Economy**: Time is the most valuable skill we have in the [attention economy](https://en.wikipedia.org/wiki/Attention_economy), and I am incredibly positive about the potential of Artificial Intelligence (AI) to simplify our lives.
+If you're building in AI or hardtech, I'd love to hear from you.
 
 ---
 
-## Portfolio
+## Notable Exits
 
-| Company | Description | Link |
+| Company | Outcome | Description |
 |---|---|---|
-| **Voicery** | Synthesizing realistic human voices using deep neural networks | [voicery.com](https://www.voicery.com) |
-| **CitrusLabs** | A new way of patient recruitment | [citruslabs.io](https://www.citruslabs.io) |
-| **Squad** | Screen sharing with friends | [squadapp.io](https://squadapp.io) |
-| **Proof** | Website personalization made easy | [useproof.com](https://useproof.com) |
-| **Auris** | AI platform for business decisions | [aurius.io](https://Aurius.io) |
-| **Tangent** | Personalizing beauty with breakthrough AI | [tangent.ai](https://tangent.ai/) |
+| [**Jasper AI**](https://jasper.ai) | Unicorn ($1.5B+), 125x | AI content platform, first check as SAFE |
+| [**Auris Health**](https://www.jnj.com/auris-health) | Acquired by J&J ($3.4B) | Surgical robotics |
+| [**Squad**](https://squadapp.io) | Acquired by Twitter | Screen sharing social app |
+
+## Active Portfolio
+
+| Company | Stage | Description |
+|---|---|---|
+| [**StratumAI**](https://stratumtech.co) | Series A (YC W20) | AI-powered mineral exploration |
+| [**Ionate**](https://ionate.energy) | Series A | Power electronics for grid decarbonization |
+| [**Hudson Labs**](https://hudson-labs.com) | Active | AI financial compliance (f/k/a Bedrock AI) |
+| [**Plura**](https://heyplura.com) | Active | Creator-driven social commerce |
+| [**Tangent.ai**](https://tangent.ai) | Seed | Personalizing beauty with AI |
+| [**DBOS**](https://dbos.dev) | Seed | Serverless Postgres platform |
+| [**Zep AI**](https://zep.ai) | Seed | Memory layer for AI assistants |
+| [**RWX**](https://rwx.com) | Series A | Fast CI/CD infrastructure |
+| [**Axioms Technology**](https://axiomstech.com) | Seed | Enterprise technology |
+| [**MindMate**](https://mindmate.co) | Seed | Mental wellness platform |
+| [**ANSpect Technologies**](https://anspect.com) | Active | Advanced inspection technology |
 
 ---
 
-**Profiles:** [Wellfound](https://wellfound.com/u/v1vek) · [Crunchbase](https://crunchbase.com/person/vivek-kumar-a65c)
+[Crunchbase](https://crunchbase.com/person/vivek-kumar-a65c)
