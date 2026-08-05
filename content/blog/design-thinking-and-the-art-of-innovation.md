@@ -4,6 +4,7 @@ date: 2015-12-14T17:53:08Z
 draft: false
 author: "Vivek Kumar"
 tags: ["creativity", "innovation", "design-thinking"]
+summary: "Key takeaways from Stanford's Design Thinking course — brainstorming techniques, prototyping for empathy, and a tour of IDEO."
 ---
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/design-thinking-and-the-art-of-innovation-dcbf89da433d))*
