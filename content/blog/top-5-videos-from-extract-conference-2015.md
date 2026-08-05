@@ -4,6 +4,7 @@ date: 2016-01-04T00:13:40Z
 draft: false
 author: "Vivek Kumar"
 tags: ["deep-learning", "artificial-intelligence", "machine-learning"]
+summary: "The best talks from Extract Conference 2015 — including Andrew Ng on deep learning and other data stories worth sharing."
 ---
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/top-5-videos-from-extract-conference-2015-b3184bbb281e))*
