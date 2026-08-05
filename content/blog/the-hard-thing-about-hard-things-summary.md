@@ -4,6 +4,7 @@ date: 2016-02-02T17:16:04Z
 draft: false
 author: "Vivek Kumar"
 tags: ["startup", "innovation", "entrepreneurship"]
+summary: "Summary of Ben Horowitz's book on the hard decisions founder-CEOs face — advice on managing tough problems that business schools don't cover."
 ---
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/the-hard-thing-about-hard-things-summary-eab9b51c420a))*
