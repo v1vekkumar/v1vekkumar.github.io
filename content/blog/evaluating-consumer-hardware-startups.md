@@ -4,6 +4,7 @@ date: 2016-10-03T22:11:58Z
 draft: false
 author: "Vivek Kumar"
 tags: ["venture-capital", "hardware-startup", "startup"]
+summary: "3 things hardware startups should focus on — creating solutions not gadgets, finding unfair advantages, and iterating faster."
 ---
 
 *(Originally posted on [Medium](https://medium.com/@vzkuma/evaluating-consumer-hardware-startups-ed09246f7c4f))*
