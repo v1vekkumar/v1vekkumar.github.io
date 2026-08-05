@@ -74,3 +74,74 @@ th {
 .first-entry {
   min-height: auto;
 }
+
+/* ================================================================
+   Blog Listing Page — Flat Text List with Hairline Dividers
+   ================================================================ */
+
+/* Remove the gray list background — use same bg as rest of site */
+.list {
+  background: var(--theme) !important;
+}
+
+/* Strip card styling: no background, no border, no radius */
+.post-entry {
+  margin-bottom: 0;
+  padding: 20px 0;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0;
+  border-bottom: 1px solid var(--border) !important;
+}
+
+/* Remove last entry's bottom border */
+.post-entry:last-child {
+  border-bottom: none !important;
+}
+
+/* Subtle hover: no lift, just gentle bg tint */
+.post-entry:hover,
+.post-entry:focus-within {
+  transform: none;
+  border-color: var(--tertiary) !important;
+}
+
+/* Tighter summary text — single line */
+.post-entry .entry-content {
+  margin: 4px 0;
+  -webkit-line-clamp: 1;
+}
+
+/* ================================================================
+   Code Block & Inline Code Fixes
+   ================================================================ */
+
+/* Remove square token highlights inside code blocks */
+.post-content .highlight pre code,
+.post-content .highlight pre code span {
+  background: transparent !important;
+}
+
+/* Clean rounded code block container */
+.post-content .highlight pre {
+  background: var(--code-block-bg) !important;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--border);
+  overflow-x: auto;
+}
+
+/* Fix line-number table backgrounds */
+.post-content .highlight .lntd {
+  padding: 0;
+  background: transparent !important;
+}
+
+/* Soften inline code to pill shape */
+.post-content code:not(pre code) {
+  background: var(--code-bg);
+  padding: 2px 7px;
+  border-radius: 5px;
+  font-size: 0.88em;
+  border: 1px solid var(--border);
+}
