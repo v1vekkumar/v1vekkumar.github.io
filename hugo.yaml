@@ -55,19 +55,22 @@ params:
   homeInfoParams:
     Title: "Vivek Kumar"
     Content: >
-      **Director, Sound Research (Frontier AI) · Google DeepMind**
+      **Director, Sound Research (Frontier AI) · [Google DeepMind](https://deepmind.google/)**
 
 
-      I lead a research team focused on multimodal understanding and generation across audio, speech, and music — including audio-visual editing, source separation, spatial audio, and foundation models.
+      I lead a research team focused on multimodal understanding and generation across foundational models, including audio-visual editing and representation.
 
 
-      Prior to joining Google in 2022, I spent over 13 years at **Dolby Laboratories**, where I founded and led the Audio AI Research team and worked on core codecs including Dolby Digital Plus, Dolby TrueHD, and Dolby Atmos.
+      Prior to joining Google in 2022, I spent over 13 years at **[Dolby Laboratories](https://www.dolby.com/)**, where I founded and led the Audio AI Research team and worked on core codecs including Dolby Digital Plus, Dolby TrueHD, and [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/).
 
 
-      I also [angel invest](/angel/) in early-stage AI and hardtech companies. My portfolio spans 15+ startups across the YC ecosystem, with notable outcomes including Jasper AI (unicorn, 125x) and Squad (acquired by Twitter).
+      I also [angel invest](/angel/) in early-stage AI and hardtech companies. My portfolio spans 15+ startups across the YC ecosystem, with notable outcomes including [Jasper AI](https://jasper.ai) (unicorn, 125x) and [Squad](https://techcrunch.com/2020/12/11/twitter-acquires-squad/) (acquired by Twitter).
 
 
-      Recent work: [PhaseCoder](https://arxiv.org/abs/2601.21124) (ICML 2026) · [SPAE](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html) (NeurIPS 2023) · [12 patents](https://scholar.google.com/citations?user=fOexgn8AAAAJ) · [Talks](/research/)
+      I [talk](/research/) about Audio AI, deep learning for signal processing, and multimodal generation.
+
+
+      Recent work: [PhaseCoder](https://arxiv.org/abs/2601.21124) (ICML 2026) · [SPAE](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html) (NeurIPS 2023) · [Papers & Talks](/research/)
 
   # Social Icons on Homepage & Footer
   socialIcons:
