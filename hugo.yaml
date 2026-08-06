@@ -42,26 +42,32 @@ params:
   ShowToc: false
   TocOpen: false
   
+  # Suppress blog post listing on homepage
+  mainSections: []
+
   # Cover image defaults
   cover:
     hidden: false
     hiddenInList: false
     hiddenInSingle: false
 
-  # Home-Info Mode (sander.ai minimalist style)
+  # Home-Info Mode
   homeInfoParams:
     Title: "Vivek Kumar"
     Content: >
-      **Technology Leader, Innovator and Angel Investor**
+      **Director, Sound Research (Frontier AI) · Google DeepMind**
 
 
-      Director, Sound Research (Frontier AI) at **Google DeepMind**. I lead a research team focused on multimodal understanding and generation across audio, speech, and music — including audio-visual editing, source separation, spatial audio, and foundation models.
+      I lead a research team focused on multimodal understanding and generation across audio, speech, and music — including audio-visual editing, source separation, spatial audio, and foundation models.
 
 
       Prior to joining Google in 2022, I spent over 13 years at **Dolby Laboratories**, where I founded and led the Audio AI Research team and worked on core codecs including Dolby Digital Plus, Dolby TrueHD, and Dolby Atmos.
 
 
-      [Angel Investor](/angel/) | Backed 15+ Startups incl. Jasper AI (Unicorn, 125x) | YC Ecosystem | Early-Stage AI & Hardtech
+      I also [angel invest](/angel/) in early-stage AI and hardtech companies. My portfolio spans 15+ startups across the YC ecosystem, with notable outcomes including Jasper AI (unicorn, 125x) and Squad (acquired by Twitter).
+
+
+      Recent work: [PhaseCoder](https://arxiv.org/abs/2601.21124) (ICML 2026) · [SPAE](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html) (NeurIPS 2023) · [12 patents](https://scholar.google.com/citations?user=fOexgn8AAAAJ) · [Talks](/research/)
 
   # Social Icons on Homepage & Footer
   socialIcons:
