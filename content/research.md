@@ -16,32 +16,32 @@ See [Google Scholar](https://scholar.google.com/citations?user=fOexgn8AAAAJ&hl=e
 * **PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs**  
   Artem Dementyev, Wazeer Zulfikar, Sinan Hersek, Pascal Getreuer, Anurag Kumar, Vivek Kumar  
   *International Conference on Machine Learning (ICML)*, 2026  
-  `[ICML 2026]` [[paper / arXiv](https://arxiv.org/abs/2601.21124)] [[pdf](https://arxiv.org/pdf/2601.21124)]
+  [[paper / arXiv](https://arxiv.org/abs/2601.21124)] [[pdf](https://arxiv.org/pdf/2601.21124)]
 
 * **SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**  
   Artem Dementyev, Wazeer Zulfikar, Sinan Hersek, Vivek Kumar  
   *arXiv preprint*, 2025  
-  `[arXiv 2025]` [[paper / arXiv](https://arxiv.org/abs/2502.08848)] [[pdf](https://arxiv.org/pdf/2502.08848)]
+  [[paper / arXiv](https://arxiv.org/abs/2502.08848)] [[pdf](https://arxiv.org/pdf/2502.08848)]
 
 * **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**  
   Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, Yanping Huang, David A. Ross, Irfan Essa, Yonatan Bisk, Ming-Hsuan Yang, Kevin P. Murphy, Alexander G. Hauptmann, Lu Jiang  
   *Neural Information Processing Systems (NeurIPS)*, 2023  
-  `[NeurIPS 2023]` [[paper / NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html)] [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf)]
+  [[paper / NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html)] [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf)]
 
 * **Voice conversion with conditional SampleRNN**  
   Vivek Kumar et al.  
   *Interspeech*, 2018  
-  `[Interspeech 2018]` [[paper / arXiv](https://arxiv.org/abs/1808.08311)] [[pdf](/files/VoiceConversionSampleRNN.pdf)]
+  [[paper / arXiv](https://arxiv.org/abs/1808.08311)] [[pdf](/files/VoiceConversionSampleRNN.pdf)]
 
 * **Transform-domain decorrelation in Dolby Digital Plus**  
   Vivek Kumar et al.  
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2014  
-  `[IEEE ICASSP 2014]` [[IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6854947)] [[pdf](/files/Decorrelation_DolbyDigitalPlus.pdf)]
+  [[IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6854947)] [[pdf](/files/Decorrelation_DolbyDigitalPlus.pdf)]
 
 * **Pseudo-Reliable Code Development**  
   Vivek Kumar  
   *Embedded Design*, 2000  
-  `[Embedded Design 2000]` [[article](publications/PsudoReliableCode.html)] [[pdf](/files/PsudoReliableCode.pdf)]
+  [[article](publications/PsudoReliableCode.html)] [[pdf](/files/PsudoReliableCode.pdf)]
 
 ---
 
