@@ -1,27 +1,13 @@
 ---
-title: "Talks and Papers"
+title: "Papers and Talks"
 layout: "single"
 url: "/research/"
-summary: "Talks, publications, and patents by Vivek Kumar."
+summary: "Publications, talks, and patents by Vivek Kumar."
 ShowToc: false
 disableShare: true
 ---
 
 See [Google Scholar](https://scholar.google.com/citations?user=fOexgn8AAAAJ&hl=en) for a complete listing of papers and patents.
-
----
-
-## Talks
-
-I speak about Audio AI, deep learning for signal processing, and multimodal understanding and generation. My talks cover practical applications of AI in audio, the intersection of machine learning and traditional signal processing, and how foundation models are reshaping how we work with sound, speech, and music.
-
-* [Audio AI - Challenges, Breakthroughs & Applications](https://www.youtube.com/watch?v=K5hD0et_wUc) - PyTorch DevCon 2019
-* [Artificial Intelligence in Audio – Applications, Advancements And Trends](https://www.youtube.com/watch?v=388AZ2ujM9w) - Soho - 477 Broadway, New York, 2019 [[info](https://soho.dolby.com/artificialintelligenceinaudio)]
-* [Future of Audio](http://www.ieee-mipr.org/history/2019/data/future_nlp_audio.html) - IEEE MIPR, Santa Clara, 2019
-* [BISH Bash Meetup: Audio AI](https://www.meetup.com/bishbash/events/264002267/) - Hosted by Dolby Laboratories, San Francisco, 2019
-* [Challenges of Doing Deep Learning with Audio](https://s3.amazonaws.com/re-work-production/schedule_pdfs/185/original.pdf?1560992606) - REWORK Applied AI Summit, San Francisco, 2018
-* [When Deep Learning Takes Over Signal Processing](https://ieondemand.com/presentations/when-machine-learning-takes-on-signal-processing) - Machine Learning Summit, San Francisco, 2018 [[slides](https://www.slideshare.net/VivekKumar522/deep-learning-takes-on-signal-processing)]
-* [Learning Deep Learning](https://www.youtube.com/watch?v=qWGKPu4C0zk) - Deep Learning Meetup, 2017
 
 ---
 
@@ -38,6 +24,20 @@ I speak about Audio AI, deep learning for signal processing, and multimodal unde
 * [Transform-domain decorrelation in Dolby Digital Plus](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6854947), *IEEE ICASSP*, 2014 [[pdf](/files/Decorrelation_DolbyDigitalPlus.pdf)]
 
 * [Pseudo-Reliable Code Development](publications/PsudoReliableCode.html), *Embedded Design*, 2000 [[pdf](/files/PsudoReliableCode.pdf)]
+
+---
+
+## Talks
+
+I speak about Audio AI, deep learning for signal processing, and multimodal understanding and generation. My talks cover practical applications of AI in audio, the intersection of machine learning and traditional signal processing, and how foundation models are reshaping how we work with sound, speech, and music.
+
+* [Audio AI - Challenges, Breakthroughs & Applications](https://www.youtube.com/watch?v=K5hD0et_wUc) - PyTorch DevCon 2019
+* [Artificial Intelligence in Audio – Applications, Advancements And Trends](https://www.youtube.com/watch?v=388AZ2ujM9w) - Soho - 477 Broadway, New York, 2019 [[info](https://soho.dolby.com/artificialintelligenceinaudio)]
+* [Future of Audio](http://www.ieee-mipr.org/history/2019/data/future_nlp_audio.html) - IEEE MIPR, Santa Clara, 2019
+* [BISH Bash Meetup: Audio AI](https://www.meetup.com/bishbash/events/264002267/) - Hosted by Dolby Laboratories, San Francisco, 2019
+* [Challenges of Doing Deep Learning with Audio](https://s3.amazonaws.com/re-work-production/schedule_pdfs/185/original.pdf?1560992606) - REWORK Applied AI Summit, San Francisco, 2018
+* [When Deep Learning Takes Over Signal Processing](https://ieondemand.com/presentations/when-machine-learning-takes-on-signal-processing) - Machine Learning Summit, San Francisco, 2018 [[slides](https://www.slideshare.net/VivekKumar522/deep-learning-takes-on-signal-processing)]
+* [Learning Deep Learning](https://www.youtube.com/watch?v=qWGKPu4C0zk) - Deep Learning Meetup, 2017
 
 ---
 
