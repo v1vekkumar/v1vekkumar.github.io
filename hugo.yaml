@@ -13,7 +13,7 @@ minify:
   disableXML: false
   minifyOutput: true
 
-# Enable raw HTML for BibTeX <details> collapsible blocks and video embeds
+# Enable raw HTML for BibTeX <details> collapsible blocks, images, and video embeds
 markup:
   goldmark:
     renderer:
@@ -55,6 +55,9 @@ params:
   homeInfoParams:
     Title: "Vivek Kumar"
     Content: >
+      <img src="/images/profile.png" alt="Vivek Kumar" class="profile-avatar">
+
+
       **Director, Sound Research (Frontier AI) · [Google DeepMind](https://deepmind.google/)**
 
 
