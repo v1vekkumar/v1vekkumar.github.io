@@ -13,6 +13,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=fOexgn8AAAAJ&hl=e
 
 ## Talks
 
+I speak about Audio AI, deep learning for signal processing, and multimodal understanding and generation. My talks cover practical applications of AI in audio, the intersection of machine learning and traditional signal processing, and how foundation models are reshaping how we work with sound, speech, and music.
+
 * [Audio AI - Challenges, Breakthroughs & Applications](https://www.youtube.com/watch?v=K5hD0et_wUc) - PyTorch DevCon 2019
 * [Artificial Intelligence in Audio – Applications, Advancements And Trends](https://www.youtube.com/watch?v=388AZ2ujM9w) - Soho - 477 Broadway, New York, 2019 [[info](https://soho.dolby.com/artificialintelligenceinaudio)]
 * [Future of Audio](http://www.ieee-mipr.org/history/2019/data/future_nlp_audio.html) - IEEE MIPR, Santa Clara, 2019
