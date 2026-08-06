@@ -17,89 +17,31 @@ See [Google Scholar](https://scholar.google.com/citations?user=fOexgn8AAAAJ&hl=e
   Artem Dementyev, Wazeer Zulfikar, Sinan Hersek, Pascal Getreuer, Anurag Kumar, Vivek Kumar  
   *International Conference on Machine Learning (ICML)*, 2026  
   `[ICML 2026]` [[paper / arXiv](https://arxiv.org/abs/2601.21124)] [[pdf](https://arxiv.org/pdf/2601.21124)]
-  <details class="bibtex-details">
-  <summary>Show BibTeX</summary>
-  <pre><code>@inproceedings{dementyev2026phasecoder,
-  title={PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs},
-  author={Dementyev, Artem and Zulfikar, Wazeer and Hersek, Sinan and Getreuer, Pascal and Kumar, Anurag and Kumar, Vivek},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2026}
-}</code></pre>
-  </details>
 
 * **SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**  
   Artem Dementyev, Wazeer Zulfikar, Sinan Hersek, Vivek Kumar  
   *arXiv preprint*, 2025  
   `[arXiv 2025]` [[paper / arXiv](https://arxiv.org/abs/2502.08848)] [[pdf](https://arxiv.org/pdf/2502.08848)]
-  <details class="bibtex-details">
-  <summary>Show BibTeX</summary>
-  <pre><code>@article{dementyev2025speechcompass,
-  title={SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization},
-  author={Dementyev, Artem and Zulfikar, Wazeer and Hersek, Sinan and Kumar, Vivek},
-  journal={arXiv preprint arXiv:2502.08848},
-  year={2025}
-}</code></pre>
-  </details>
 
 * **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**  
   Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, Yanping Huang, David A. Ross, Irfan Essa, Yonatan Bisk, Ming-Hsuan Yang, Kevin P. Murphy, Alexander G. Hauptmann, Lu Jiang  
   *Neural Information Processing Systems (NeurIPS)*, 2023  
   `[NeurIPS 2023]` [[paper / NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html)] [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf)]
-  <details class="bibtex-details">
-  <summary>Show BibTeX</summary>
-  <pre><code>@inproceedings{yu2023spae,
-  title={SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs},
-  author={Yu, Lijun and Cheng, Yong and Wang, Zhiruo and Kumar, Vivek and Macherey, Wolfgang and Huang, Yanping and Ross, David A and Essa, Irfan and Bisk, Yonatan and Yang, Ming-Hsuan and Murphy, Kevin P and Hauptmann, Alexander G and Jiang, Lu},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  volume={36},
-  pages={52631--52646},
-  year={2023}
-}</code></pre>
-  </details>
 
 * **Voice conversion with conditional SampleRNN**  
   Vivek Kumar et al.  
   *Interspeech*, 2018  
   `[Interspeech 2018]` [[paper / arXiv](https://arxiv.org/abs/1808.08311)] [[pdf](/files/VoiceConversionSampleRNN.pdf)]
-  <details class="bibtex-details">
-  <summary>Show BibTeX</summary>
-  <pre><code>@inproceedings{kumar2018voice,
-  title={Voice conversion with conditional SampleRNN},
-  author={Kumar, Vivek and others},
-  booktitle={Interspeech},
-  year={2018}
-}</code></pre>
-  </details>
 
 * **Transform-domain decorrelation in Dolby Digital Plus**  
   Vivek Kumar et al.  
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2014  
   `[IEEE ICASSP 2014]` [[IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6854947)] [[pdf](/files/Decorrelation_DolbyDigitalPlus.pdf)]
-  <details class="bibtex-details">
-  <summary>Show BibTeX</summary>
-  <pre><code>@inproceedings{kumar2014transform,
-  title={Transform-domain decorrelation in Dolby Digital Plus},
-  author={Kumar, Vivek and others},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={6854--6858},
-  year={2014},
-  organization={IEEE}
-}</code></pre>
-  </details>
 
 * **Pseudo-Reliable Code Development**  
   Vivek Kumar  
   *Embedded Design*, 2000  
   `[Embedded Design 2000]` [[article](publications/PsudoReliableCode.html)] [[pdf](/files/PsudoReliableCode.pdf)]
-  <details class="bibtex-details">
-  <summary>Show BibTeX</summary>
-  <pre><code>@article{kumar2000pseudo,
-  title={Pseudo-Reliable Code Development},
-  author={Kumar, Vivek},
-  journal={Embedded Design},
-  year={2000}
-}</code></pre>
-  </details>
 
 ---
 
