@@ -9,7 +9,7 @@ disableShare: true
 
 <div class="angel-hero">
   <p class="angel-intro">
-    I back early-stage founders building deep technical advantages in <strong>AI systems</strong> and <strong>hardtech</strong>. Across 15+ direct investments, the active portfolio tracks at a ~5x multiple. I write first checks at pre-seed and seed, often via SAFE notes, and work closely with teams across the Y Combinator ecosystem.
+    I have been angel investing since 2018, backing early-stage founders building deep technical advantages in <strong>AI systems</strong> and <strong>hardtech</strong>. Across 15+ direct investments, the active portfolio tracks at a ~5x multiple. I write first checks at pre-seed and seed, and work closely with teams across the Y Combinator ecosystem.
   </p>
   <div class="angel-stats-bar">
     <div class="stat-item">
@@ -180,9 +180,9 @@ disableShare: true
     <div class="pitch-criteria">
       <h3>Investment Focus</h3>
       <ul>
-        <li><strong>Core Sectors:</strong> Applied foundation models, frontier audio/multimodal AI, and hardtech with clear physical moats.</li>
-        <li><strong>Stage:</strong> Pre-seed and seed checks. First institutional or angel checks via standard SAFE notes.</li>
-        <li><strong>Founder Profile:</strong> Relentless technical builders with unique domain insight, fast shipping cadences, and strong distribution instincts.</li>
+        <li><strong>Core Sectors:</strong> Applied foundation models, frontier audio/multimodal AI, and hardtech.</li>
+        <li><strong>Stage:</strong> Pre-seed and seed checks.</li>
+        <li><strong>Founder Profile:</strong> Relentless technical builders with unique domain insight.</li>
         <li><strong>Decision Speed:</strong> Rapid decisions. Zero committees, zero multi-week stalling.</li>
       </ul>
     </div>
