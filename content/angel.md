@@ -22,7 +22,6 @@ If you're building in AI or hardtech, I'd love to hear from you.
 | Company | Outcome | Description |
 |---|---|---|
 | [**Jasper AI**](https://jasper.ai) | Unicorn ($1.5B+), 125x | AI content platform, first check as SAFE |
-| [**Auris Health**](https://www.jnj.com/auris-health) | Acquired by J&J ($3.4B) | Surgical robotics |
 | [**Squad**](https://squadapp.io) | Acquired by Twitter | Screen sharing social app |
 
 ## Active Portfolio
