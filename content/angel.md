@@ -29,16 +29,11 @@ If you're building in AI or hardtech, I'd love to hear from you.
 | Company | Stage | Description |
 |---|---|---|
 | [**StratumAI**](https://stratumtech.co) | Series A (YC W20) | AI-powered mineral exploration |
-| [**Ionate**](https://ionate.energy) | Series A | Power electronics for grid decarbonization |
 | [**Hudson Labs**](https://hudson-labs.com) | Active | AI financial compliance (f/k/a Bedrock AI) |
 | [**Plura**](https://heyplura.com) | Active | Creator-driven social commerce |
 | [**Tangent.ai**](https://tangent.ai) | Seed | Personalizing beauty with AI |
-| [**DBOS**](https://dbos.dev) | Seed | Serverless Postgres platform |
-| [**Zep AI**](https://zep.ai) | Seed | Memory layer for AI assistants |
-| [**RWX**](https://rwx.com) | Series A | Fast CI/CD infrastructure |
 | [**Axioms Technology**](https://axiomstech.com) | Seed | Enterprise technology |
 | [**MindMate**](https://mindmate.co) | Seed | Mental wellness platform |
-| [**ANSpect Technologies**](https://anspect.com) | Active | Advanced inspection technology |
 
 ---
 
