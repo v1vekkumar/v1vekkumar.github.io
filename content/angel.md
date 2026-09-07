@@ -17,23 +17,26 @@ If you're building in AI or hardtech, I'd love to hear from you.
 
 ---
 
-## Notable Exits
+## Featured Investment
+
+| Company | Status | Description |
+|---|---|---|
+| [**Jasper AI**](https://jasper.ai) | Unicorn ($1.5B+), 125x paper return | Enterprise generative AI platform, first check as SAFE |
+
+## Realized Exits
 
 | Company | Outcome | Description |
 |---|---|---|
-| [**Jasper AI**](https://jasper.ai) | Unicorn ($1.5B+), 125x | AI content platform, first check as SAFE |
-| [**Squad**](https://squadapp.io) | Acquired by Twitter | Screen sharing social app |
+| [**Squad**](https://squadapp.io) | Acquired by Twitter (2x return) | Screen sharing social app |
 
 ## Active Portfolio
 
 | Company | Stage | Description |
 |---|---|---|
-| [**StratumAI**](https://stratumtech.co) | Series A (YC W20) | AI-powered mineral exploration |
+| [**StratumAI**](https://stratumtech.co) | Series A (YC W20, 6x markup) | AI-powered mineral exploration |
 | [**Hudson Labs**](https://hudson-labs.com) | Active | AI financial compliance (f/k/a Bedrock AI) |
 | [**Plura**](https://heyplura.com) | Active | Creator-driven social commerce |
 | [**Tangent.ai**](https://tangent.ai) | Seed | Personalizing beauty with AI |
-| [**Axioms Technology**](https://axiomstech.com) | Seed | Enterprise technology |
-| [**MindMate**](https://mindmate.co) | Seed | Mental wellness platform |
 
 ---
 
